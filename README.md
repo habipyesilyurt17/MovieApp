@@ -1,13 +1,14 @@
 # MovieApp
-Apps architecture is MVVM and used Delegation Pattern for binding.
+Apps architecture is MVVM with Delegation Pattern.
 
 # Architecture
 - MVVM
 
 # Features
 - Programmatically UI
-- Delegation Pattern for binding
+- Delegation Pattern
 - Pagination
+- Search Filter
 - Used CocoaPods Dependency Manager
 - Alamofire for Networking
 
